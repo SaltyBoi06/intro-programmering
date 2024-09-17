@@ -1,2 +1,2 @@
-namn = input("Vad heter du?")
-print("Hej", namn, "!")
+farg = input("Vad är din favoritfärg?")
+print("Din favoritfärg är", farg, "!")
