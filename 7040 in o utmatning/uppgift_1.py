@@ -1,8 +1,5 @@
-text = input("Hur många heltal: ")
-tal = int(text)
-text = input("Minsta nummer: ")
-tal2 = int(text)
-while tal > 0:
-    print(tal2)
-    tal2 = tal2 + 1
-    tal = tal - 1
+t = [1, 3, 5, 6, 2]
+x=0
+for a in t:
+    x=x+10*a
+    print(x)
